@@ -47,4 +47,14 @@ The main purpose of React is to be fast, scalable, and simple. It works only on 
  
    > ReactJS applications are super easy to test. React views can be treated as functions of the state, so we can manipulate with the state we pass to the ReactJS view and take a look at the output and triggered actions, events, functions, etc.
    
- ## Features!   
+  ## Features!   
+
+# References
+
+   [Why ReactJs](https://medium.com/@thinkwik/why-reactjs-is-gaining-so-much-popularity-these-days-c3aa686ec0b3) 
+   [Trends](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+   [Redux](https://www.mantralabsglobal.com/blog/top-trending-react-js-libraries-of-2019/)
+   [Official Website](https://reactjs.org/)
+   [Features](https://www.guru99.com/reactjs-tutorial.html)
+   [JSX](https://skillcrush.com/blog/what-is-react-js/)
+   
