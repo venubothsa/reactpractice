@@ -61,7 +61,7 @@ The main purpose of React is to be fast, scalable, and simple. It works only on 
  #### Javascript Expressions: 
    JS expressions can be used in the jsx files using curly brackets, for example {}.
    
-   
+   ![alt text](https://github.com/venubothsa/reactpractice/blob/main/react_prosandcons.png?raw=true)
 
 # References
 
