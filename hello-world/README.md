@@ -1,12 +1,18 @@
 # Hello World
 
-### `npx create-react-app hello-world`
+To create the react application
+
+### `npx create-react-app <application-name>`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
 ### `npm start`
+
+## Application Files and Folder Structure
+
+[!alt text](https://github.com/venubothsa/reactpractice/blob/main/hello-world.png?raw=true)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
