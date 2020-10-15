@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 ## Application Files and Folder Structure
 
-[!alt text](https://github.com/venubothsa/reactpractice/blob/main/hello-world.png?raw=true)
+![alt text](https://github.com/venubothsa/reactpractice/blob/main/hello-world.png?raw=true)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
