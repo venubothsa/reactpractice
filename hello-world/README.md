@@ -40,12 +40,9 @@ This file defines all the settings for the React project.
 - ****version**** is the current version.
 - ****private: true**** is a failsafe setting to avoid accidentally publishing your app as a public package within the npm ecosystem.
 - ****dependencies**** contains all the required node modules and versions required for the application. In the screenshot above, the react version specified is ^16.8.3. This     means that   npm will install the most recent major version matching 16.x.x.
- > It contains bydefault three Third party packages, which allow us to use react , react-dom and react-scripts in our react project.
- 
-   ****react :***** This package is used to build the  UI of our application.
-    
-   ****react-dom :**** This package is used by react for working with DOM.
-    
+ > It contains bydefault three Third party packages, which allow us to use react , react-dom and react-scripts in our react project.<br>
+   ****react :***** This package is used to build the  UI of our application.<br>
+   ****react-dom :**** This package is used by react for working with DOM.<br>
    ****react-scripts :**** It includes scripts and configuration for bable , webpack used by create react app.
 
 scripts specifies aliases that you can use to access some of the react-scripts commands in a more efficient manner. For example running npm test in your command line will run react-scripts test behind the scenes.There are few scripts that you can use :
