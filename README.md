@@ -48,6 +48,7 @@ The main purpose of React is to be fast, scalable, and simple. It works only on 
    > ReactJS applications are super easy to test. React views can be treated as functions of the state, so we can manipulate with the state we pass to the ReactJS view and take a look at the output and triggered actions, events, functions, etc.
    
   ## Features!   
+   ![alt text](https://github.com/venubothsa/reactpractice/blob/main/react_prosandcons.png?raw=true)
   
   #### JSX : 
    JSX is an extension to javascript. Though it is not mandatory to use JSX in react, it is one of the good features and easy to use.
@@ -61,7 +62,8 @@ The main purpose of React is to be fast, scalable, and simple. It works only on 
  #### Javascript Expressions: 
    JS expressions can be used in the jsx files using curly brackets, for example {}.
    
-   ![alt text](https://github.com/venubothsa/reactpractice/blob/main/react_prosandcons.png?raw=true)
+  ![alt text](https://github.com/venubothsa/reactpractice/blob/main/intro.png?raw=true)
+  
 
 # References
 
