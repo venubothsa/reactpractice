@@ -30,6 +30,30 @@ This is the standard file used by Git to determine which files and directories t
 
 ![alt text](https://github.com/venubothsa/reactpractice/blob/main/ignore2.png?raw=true)
 
+#### package.json
+
+This file defines all the settings for the React project.
+
+![alt text](https://github.com/venubothsa/reactpractice/blob/main/packjs.png?raw=true)
+
+- ****name**** is the name of your app.
+- ****version**** is the current version.
+- ****private: true**** is a failsafe setting to avoid accidentally publishing your app as a public package within the npm ecosystem.
+- ****dependencies**** contains all the required node modules and versions required for the application. In the screenshot above, the react version specified is ^16.8.3. This     means that   npm will install the most recent major version matching 16.x.x.
+ > It contains bydefault three Third party packages, which allow us to use react , react-dom and react-scripts in our react project.
+    - ****react :***** This package is used to build the  UI of our application.
+    - ****react-dom :**** This package is used by react for working with DOM.
+    - ****react-scripts :**** It includes scripts and configuration for bable , webpack used by create react app.
+
+scripts specifies aliases that you can use to access some of the react-scripts commands in a more efficient manner. For example running npm test in your command line will run react-scripts test behind the scenes.There are few scripts that you can use :
+start : Runs the app in the development mode.It is run by the  “npm start” command.
+
+build : Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. It is run by the  “npm run build” command.
+
+test : Launches the test runner in the interactive watch mode.It is run by the  “npm test” command.
+
+eject : This script is only used when you want to customize react-scripts and go on with your own.It is run by the  “npm run eject” command.
+
 ## Available Scripts
 
 ### `npm test`
