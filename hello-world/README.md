@@ -26,6 +26,10 @@ You will also see any lint errors in the console.
 
 This is the standard file used by Git to determine which files and directories to ignore, before you make a commit.
 
+> A .gitignore file should be committed into your repository, in order to share the ignore rules with any other users that clone the repository.
+
+![alt text](https://github.com/venubothsa/reactpractice/blob/main/ignore2.png?raw=true)
+
 ## Available Scripts
 
 ### `npm test`
