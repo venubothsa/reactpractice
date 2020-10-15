@@ -10,15 +10,21 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## Application Files and Folder Structure
-
-![alt text](https://github.com/venubothsa/reactpractice/blob/main/hello-world.png?raw=true)
-
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## Application Files and Folder Structure
+
+ When we run the command in our terminal to create react application the following initial project structure get generated inside our project directory as shown below:
+
+![alt text](https://github.com/venubothsa/reactpractice/blob/main/hello-world.png?raw=true)
+
+#### .gitignore
+
+This is the standard file used by Git to determine which files and directories to ignore, before you make a commit.
 
 ## Available Scripts
 
