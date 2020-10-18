@@ -7,5 +7,8 @@ Components are two types:
   - Class components
   - Functional Components
   
+## Class Components
+ 
+  
  
 To define a React component class, you need to extend React.Component:
