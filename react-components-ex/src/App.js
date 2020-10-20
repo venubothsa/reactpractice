@@ -5,6 +5,7 @@ import ClassCompnent from './components/ClassComponent'
 import FunctionalComponent from './components/FunctionalComponent'
 import PropsClassComponent from './components/PropsClassComponent';
 import PropsFunctionalComponents from './components/PropsFunctionalComponents';
+import LifeCycleClassComponent from './components/LifeCycleClassComponent';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
     <FunctionalComponent/>
     <PropsClassComponent city='vizag' type='Class'/>
     <PropsFunctionalComponents city='hyderabad' type='Function'/>
+    <LifeCycleClassComponent/>
     </div>
   );
 }
