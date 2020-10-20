@@ -23,4 +23,5 @@ To define a React component class, you need to extend `React.Component`.
 
 #### Functional components vs Class components
 
+![alt text](https://github.com/venubothsa/reactpractice/blob/main/react-components-ex/image.png?raw=true)
 
