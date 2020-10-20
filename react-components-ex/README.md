@@ -22,13 +22,13 @@ To define a React component class, you need to extend `React.Component`.
 
 #### Life cycle methods
 
-****constructor()****  Initializer for declaring variables or states.<br>
-****componentDidMount()**** Called after the component is rendered. The initial request for data may be called in this method instead of constructor().<br>
-****render()**** REQUIRED method that outputs HTML to the DOM.<br>
-****componentDidUpdate()****  Called after the component is updated in the DOM.<br>
-****componentWillUnmount()****  Called when the component is about to be removed from the DOM.
+****constructor() :****  Initializer for declaring variables or states.<br><br>
+****componentDidMount() :**** Called after the component is rendered. The initial request for data may be called in this method instead of constructor().<br><br>
+****render() :**** REQUIRED method that outputs HTML to the DOM.<br><br>
+****componentDidUpdate() :****  Called after the component is updated in the DOM.<br><br>
+****componentWillUnmount() :****  Called when the component is about to be removed from the DOM.
 
-### Functional components vs Class components
+## Functional components vs Class components
 
 ![alt text](https://github.com/venubothsa/reactpractice/blob/main/react-components-ex/image.png?raw=true)
 
