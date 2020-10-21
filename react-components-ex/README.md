@@ -44,3 +44,4 @@ Components are two types:
 ![alt text](https://github.com/venubothsa/reactpractice/blob/main/react-components-ex/image.png?raw=true)
 
 ## Props vs State
+![alt text](https://github.com/venubothsa/reactpractice/blob/main/react-components-ex/statevsprops.PNG?raw=true)
