@@ -9,18 +9,20 @@ import LifeCycleClassComponent from './components/LifeCycleClassComponent';
 import ParentComponent from './components/ParentComponent';
 import StateFunctionalComponent from './components/StateFunctionComponent';
 import StateClassComponent from './components/StateClassComponent';
+import FormComponent from './components/FormComponent';
 
 function App() {
   return (
     <div className="App">
     <ClassCompnent/>
     <FunctionalComponent/>
-    <PropsClassComponent city='vizag' type='Class'/>
+    {/* <PropsClassComponent city='vizag' type='Class'/>
     <PropsFunctionalComponents city='hyderabad' type='Function'/>
     <StateFunctionalComponent/>
     <StateClassComponent/>
     <LifeCycleClassComponent/>
     <ParentComponent/>
+    <FormComponent/> */}
     </div>
   );
 }
