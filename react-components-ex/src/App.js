@@ -11,6 +11,7 @@ import StateFunctionalComponent from './components/StateFunctionComponent';
 import StateClassComponent from './components/StateClassComponent';
 import FormComponent from './components/FormComponent';
 import JSX from './components/JSX';
+import ConditionalRenderingComponent from './components/ConditionalRenderingComponent';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <FunctionalComponent/>
     <LifeCycleClassComponent/>
     <JSX/>
+    <ConditionalRenderingComponent/>
     {/* <PropsClassComponent city='vizag' type='Class'/>
     <PropsFunctionalComponents city='hyderabad' type='Function'/>
     <StateFunctionalComponent/>

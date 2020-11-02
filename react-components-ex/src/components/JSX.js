@@ -6,7 +6,7 @@ function JSX() {
     //         <h1>Hello World</h1>
     //     </div>
     // )
-    return React.createElement('div',null,React.createElement('h1',null,'Hello World'));
+    return React.createElement('div',{id:'test',className:'dummyClass'},React.createElement('h1',null,'Hello World'));
 }
 
 export default JSX;
