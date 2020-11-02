@@ -52,12 +52,13 @@ The main purpose of React is to be fast, scalable, and simple. It works only on 
   
   ### JSX : 
    JSX is an extension to javascript. Though it is not mandatory to use JSX in react, it is one of the good features and easy to use.
-    #### Key points about JSX
-      - In JSX we can write XML like code for elements and components.
-      - JSX tags have tag name, attributes and childern.
-      - JSX not necessity to write React applications.
-      - JSX makes your react code simpler and elegant.
-      - JSX ultimately transpiles to pure JavaScript which is understood by the browsers.
+   
+   #### Key points about JSX
+   - In JSX we can write XML like code for elements and components. <br>
+   - JSX tags have tag name, attributes and childern. <br>
+   - JSX not necessity to write React applications. <br>
+   - JSX makes your react code simpler and elegant. <br>
+   - JSX ultimately transpiles to pure JavaScript which is understood by the browsers.
       
 
   #### Components: 
