@@ -10,12 +10,15 @@ import ParentComponent from './components/ParentComponent';
 import StateFunctionalComponent from './components/StateFunctionComponent';
 import StateClassComponent from './components/StateClassComponent';
 import FormComponent from './components/FormComponent';
+import JSX from './components/JSX';
 
 function App() {
   return (
     <div className="App">
     <ClassCompnent/>
     <FunctionalComponent/>
+    <LifeCycleClassComponent/>
+    <JSX/>
     {/* <PropsClassComponent city='vizag' type='Class'/>
     <PropsFunctionalComponents city='hyderabad' type='Function'/>
     <StateFunctionalComponent/>
