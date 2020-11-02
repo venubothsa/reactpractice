@@ -50,8 +50,15 @@ The main purpose of React is to be fast, scalable, and simple. It works only on 
   ## Features!   
    ![alt text](https://github.com/venubothsa/reactpractice/blob/main/react_prosandcons.png?raw=true)
   
-  #### JSX : 
+  ### JSX : 
    JSX is an extension to javascript. Though it is not mandatory to use JSX in react, it is one of the good features and easy to use.
+    #### Key points about JSX
+      - In JSX we can write XML like code for elements and components.
+      - JSX tags have tag name, attributes and childern.
+      - JSX not necessity to write React applications.
+      - JSX makes your react code simpler and elegant.
+      - JSX ultimately transpiles to pure JavaScript which is understood by the browsers.
+      
 
   #### Components: 
    Components are like pure javascript functions that help make the code easy by splitting the logic into reusable independent code. We can use components as functions and components as classes. Components also have a state, props which makes life easy. Inside a class, the state of each of the props is maintained.
